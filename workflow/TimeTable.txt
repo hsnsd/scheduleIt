@@ -1,0 +1,191 @@
+TIMETABLE #1
+Calculus-2 and Solid Geometry Dr. M. Shahid Qureshi Tuesday 4:00
+Discrete Mathematics Dr. Shoaib Jamal Monday 2:30
+Introduction to Statistics Yaseen Minai Tuesday 2:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Dr. Zaheeruddin Monday 8:30
+Speech Communication Samina Wahid Monday 10:00
+
+TIMETABLE #2
+Calculus-2 and Solid Geometry Dr. M. Shahid Qureshi Tuesday 4:00
+Discrete Mathematics Dr. Shoaib Jamal Monday 2:30
+Introduction to Statistics Yaseen Minai Tuesday 11:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Muhammad Jahangir Tuesday 2:30
+Speech Communication Samina Wahid Monday 10:00
+
+TIMETABLE #3
+Calculus-2 and Solid Geometry Dr. M. Shahid Qureshi Tuesday 4:00
+Discrete Mathematics Dr. Shoaib Jamal Monday 2:30
+Introduction to Statistics Yaseen Minai Tuesday 11:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Dr. Zaheeruddin Monday 8:30
+Speech Communication Samina Wahid Monday 10:00
+
+TIMETABLE #4
+Calculus-2 and Solid Geometry Dr. M. Shahid Qureshi Monday 4:00
+Discrete Mathematics Muhammad Shahid Ashraf Tuesday 2:30
+Introduction to Statistics Yaseen Minai Tuesday 11:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Muhammad Jahangir Tuesday 4:00
+Speech Communication Samina Wahid Monday 10:00
+
+TIMETABLE #5
+Calculus-2 and Solid Geometry Dr. M. Shahid Qureshi Monday 4:00
+Discrete Mathematics Dr. Shoaib Jamal Monday 2:30
+Introduction to Statistics Yaseen Minai Tuesday 11:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Muhammad Jahangir Tuesday 2:30
+Speech Communication Samina Wahid Monday 8:30
+
+TIMETABLE #6
+Calculus-2 and Solid Geometry Nazish Kanwal Monday 8:30
+Discrete Mathematics Dr. Shoaib Jamal Monday 2:30
+Introduction to Statistics Yaseen Minai Tuesday 2:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Muhammad Jahangir Tuesday 4:00
+Speech Communication Samina Wahid Monday 10:00
+
+TIMETABLE #7
+Calculus-2 and Solid Geometry Dr. M. Shahid Qureshi Tuesday 4:00
+Discrete Mathematics Dr. Shoaib Jamal Monday 4:00
+Introduction to Statistics Yaseen Minai Tuesday 11:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Muhammad Jahangir Tuesday 2:30
+Speech Communication Samina Wahid Monday 8:30
+
+TIMETABLE #8
+Calculus-2 and Solid Geometry Dr. M. Shahid Qureshi Monday 4:00
+Discrete Mathematics Dr. Shoaib Jamal Monday 2:30
+Introduction to Statistics Yaseen Minai Tuesday 2:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Muhammad Jahangir Tuesday 4:00
+Speech Communication Samina Wahid Monday 10:00
+
+TIMETABLE #9
+Calculus-2 and Solid Geometry Dr. M. Shahid Qureshi Tuesday 4:00
+Discrete Mathematics Dr. Shoaib Jamal Monday 4:00
+Introduction to Statistics Yaseen Minai Tuesday 11:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Muhammad Jahangir Tuesday 2:30
+Speech Communication Samina Wahid Monday 10:00
+
+TIMETABLE #10
+Calculus-2 and Solid Geometry Nazish Kanwal Monday 8:30
+Discrete Mathematics Muhammad Shahid Ashraf Tuesday 2:30
+Introduction to Statistics Yaseen Minai Tuesday 11:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Muhammad Jahangir Tuesday 4:00
+Speech Communication Samina Wahid Monday 10:00
+
+TIMETABLE #11
+Calculus-2 and Solid Geometry Dr. M. Shahid Qureshi Monday 4:00
+Discrete Mathematics Muhammad Shahid Ashraf Tuesday 2:30
+Introduction to Statistics Yaseen Minai Tuesday 11:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Dr. Zaheeruddin Monday 8:30
+Speech Communication Samina Wahid Monday 10:00
+
+TIMETABLE #12
+Calculus-2 and Solid Geometry Dr. M. Shahid Qureshi Tuesday 4:00
+Discrete Mathematics Dr. Shoaib Jamal Monday 4:00
+Introduction to Statistics Yaseen Minai Tuesday 11:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Dr. Zaheeruddin Monday 8:30
+Speech Communication Samina Wahid Monday 10:00
+
+TIMETABLE #13
+Calculus-2 and Solid Geometry Nazish Kanwal Monday 8:30
+Discrete Mathematics Dr. Shoaib Jamal Monday 4:00
+Introduction to Statistics Yaseen Minai Tuesday 11:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Muhammad Jahangir Tuesday 4:00
+Speech Communication Samina Wahid Monday 10:00
+
+TIMETABLE #14
+Calculus-2 and Solid Geometry Dr. M. Shahid Qureshi Monday 4:00
+Discrete Mathematics Muhammad Shahid Ashraf Tuesday 2:30
+Introduction to Statistics Yaseen Minai Tuesday 11:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Muhammad Jahangir Tuesday 4:00
+Speech Communication Samina Wahid Monday 8:30
+
+TIMETABLE #15
+Calculus-2 and Solid Geometry Dr. M. Shahid Qureshi Tuesday 4:00
+Discrete Mathematics Muhammad Shahid Ashraf Tuesday 2:30
+Introduction to Statistics Yaseen Minai Tuesday 11:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Dr. Zaheeruddin Monday 8:30
+Speech Communication Samina Wahid Monday 10:00
+
+TIMETABLE #16
+Calculus-2 and Solid Geometry Nazish Kanwal Monday 8:30
+Discrete Mathematics Dr. Shoaib Jamal Monday 4:00
+Introduction to Statistics Yaseen Minai Tuesday 11:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Muhammad Jahangir Tuesday 2:30
+Speech Communication Samina Wahid Monday 10:00
+
+TIMETABLE #17
+Calculus-2 and Solid Geometry Dr. M. Shahid Qureshi Tuesday 4:00
+Discrete Mathematics Dr. Shoaib Jamal Monday 4:00
+Introduction to Statistics Yaseen Minai Tuesday 2:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Dr. Zaheeruddin Monday 8:30
+Speech Communication Samina Wahid Monday 10:00
+
+TIMETABLE #18
+Calculus-2 and Solid Geometry Dr. M. Shahid Qureshi Monday 4:00
+Discrete Mathematics Dr. Shoaib Jamal Monday 2:30
+Introduction to Statistics Yaseen Minai Tuesday 11:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Muhammad Jahangir Tuesday 4:00
+Speech Communication Samina Wahid Monday 10:00
+
+TIMETABLE #19
+Calculus-2 and Solid Geometry Dr. M. Shahid Qureshi Monday 4:00
+Discrete Mathematics Dr. Shoaib Jamal Monday 2:30
+Introduction to Statistics Yaseen Minai Tuesday 2:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Muhammad Jahangir Tuesday 4:00
+Speech Communication Samina Wahid Monday 8:30
+
+TIMETABLE #20
+Calculus-2 and Solid Geometry Nazish Kanwal Monday 8:30
+Discrete Mathematics Dr. Shoaib Jamal Monday 4:00
+Introduction to Statistics Yaseen Minai Tuesday 2:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Muhammad Jahangir Tuesday 4:00
+Speech Communication Samina Wahid Monday 10:00
+
+TIMETABLE #21
+Calculus-2 and Solid Geometry Dr. M. Shahid Qureshi Monday 4:00
+Discrete Mathematics Dr. Shoaib Jamal Monday 2:30
+Introduction to Statistics Yaseen Minai Tuesday 2:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 8:30
+Obj. Oriented Programming Techniques Farhan Siddiqui Tuesday 10:00
+Physics-1 Dr. Zaheeruddin Monday 8:30
+Speech Communication Samina Wahid Monday 10:00
+
+
+Good Bye!
